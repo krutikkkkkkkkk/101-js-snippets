@@ -1,0 +1,19 @@
+{
+  "name": "101-js-snippets",
+  "version": "1.0.0",
+  "description": "101 Javascript code snippets to make your life easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reboot13-git/101-js-snippets.git"
+  },
+  "author": "reboot13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reboot13-git/101-js-snippets/issues"
+  },
+  "homepage": "https://github.com/reboot13-git/101-js-snippets#readme"
+}
